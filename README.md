@@ -4,7 +4,7 @@
 Download the dataset from https://drive.google.com/file/d/1TZhp3jteK5Uash7cc_HW14XmeWPYYw3J/view?usp=sharing. Unzip the file and put the folder at root directory (same directory as "code" folder).
 
 ### 2. Setup
-- Modeling training: run notebook model_training.ipynb
+- Model training: run notebook model_training.ipynb
 - Network visualization: run notebook visualization.ipynb
 - Prediction evaluation: run notebook prediction_evaluation.ipynb
 - Note1: we run our code on Google Colab. If you need to run on your local machine, some of the given paths in the notebook should be edited.
